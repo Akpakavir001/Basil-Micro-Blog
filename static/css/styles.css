@@ -156,3 +156,6 @@ body {
 .footer__item:hover {
   text-decoration: underline;
 }
+
+.pic{width: 150px; height: 150px;
+border-radius: 10px;}
