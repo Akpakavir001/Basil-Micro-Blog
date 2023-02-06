@@ -1,6 +1,6 @@
 ABOUT THIS MICRO-BLOG APP:
-Developed by: Okwumuo, Basil Moses
-Contribution: Josè Salvatierra
+Developed by: Okwumuo, Basil Moses //
+Contribution: Josè Salvatierra //
 This app was developed with Flask framework, python programming language, html programming language and jinja2 programming language.
 MongoDB is the database platform that stores the data of this app.
 In hosting of this app, Heroku platform and its APIs were used.
